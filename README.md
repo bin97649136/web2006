@@ -6,15 +6,15 @@
 后台：Node+Token处理+MySQL
 
 ## 项目依赖
-网络请求：npm install --save axios
-ElementUI：vue add element
-图表：npm install --save echarts
-jwt：npm install --save jwt-decode
+网络请求：npm install --save axios <br>
+ElementUI：vue add element <br>
+图表：npm install --save echarts <br>
+jwt：npm install --save jwt-decode <br>
 
 ## 后台依赖
-npm install --save express
-npm install --save mysql
-npm install --save jsonwebtoken
+npm install --save express <br>
+npm install --save mysql <br>
+npm install --save jsonwebtoken <br>
 
 ## 项目页面构建
 1. 容器：Layout
@@ -53,7 +53,7 @@ npm install --save jsonwebtoken
 13. Loading 加载
 
 ## 国际化
-(参考网址)[http://kazupon.github.io/vue-i18n/zh/]
+!(参考网址)[http://kazupon.github.io/vue-i18n/zh/]
 ### 安装依赖
 npm install vue-i18n --save
 
